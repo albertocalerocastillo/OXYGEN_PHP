@@ -4,7 +4,7 @@
 
 **Diez ejercicios progresivos en PHP puro: de un array en memoria a una clase con MySQL y plantillas BladeOne.**
 
-Proyecto del Training React Full Stack de OXYGEN · Sprint 10 (PHP)
+Proyecto del Training React Full Stack de OXYGEN Academy · Sprint 10 (PHP)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
